@@ -1,7 +1,6 @@
 # pr.request-share-price
 Мини-тестовое задание | запросить цену акции за определенный день
 
-### DEMO: https://ra-naun.github.io/pr.request-share-price/
 
 
 Внимание: из-за проблем с междоменными запросами (CORS) работает только если в браузере отключить CORS. 
@@ -12,4 +11,4 @@ D cmd ввести:
  chrome.exe --user-data-dir="C:/Chrome dev session" --disable-web-security
  ```
 
-и в открывшейся вкладке браузера открыть html-файл или DEMO-ссылку.
+и в открывшейся вкладке браузера открыть html-файл.
